@@ -15,8 +15,8 @@
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=ameba.jp
 // @noframes
 // @grant        none
-// @updateURL        https://github.com/personwritep/Time_On_My_Side/raw/main/Time_On_My_Side_A.user.js
-// @downloadURL        https://github.com/personwritep/Time_On_My_Side/raw/main/Time_On_My_Side_A.user.js
+// @updateURL        https://github.com/personwritep/Time_On_My_Side_A/raw/main/Time_On_My_Side_A.user.js
+// @downloadURL        https://github.com/personwritep/Time_On_My_Side_A/raw/main/Time_On_My_Side_A.user.js
 // ==/UserScript==
 
 
